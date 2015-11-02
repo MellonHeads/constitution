@@ -9,8 +9,6 @@
 
 # Article 0. Table of Contents
 
-[[TOC]]
-
 # Article I. Official name and abbreviation
 
 1. The name of this Carnegie Mellon University ("the University") student organization shall officially be known as MellonHeads.
