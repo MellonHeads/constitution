@@ -9,6 +9,18 @@
 
 # Article 0. Table of Contents
 
+- Article 0. Table of Contents
+- Article I. Official name and abbreviation
+- Article II. Purpose
+- Article III. General Eligibility
+- Article IV. Members of the General Body
+- Article V. Members of the Board
+- Article VI. Meetings
+- Article VII. Election of Board Members
+- Article VIII. Quorum
+- Article IV. Amendments
+- Article X. History
+
 # Article I. Official name and abbreviation
 
 1. The name of this Carnegie Mellon University ("the University") student organization shall officially be known as MellonHeads.
